@@ -1,0 +1,54 @@
+{
+    "apparel": [
+        {
+            "apparelId": "1",
+            "name": "Hat",
+            "size": "Large",
+            "apparelQualityId": "1",
+            "price": "200"
+        },
+        {
+            "apparelId": "2",
+            "name": "Hat",
+            "size": "Medium",
+            "apparelQualityId": "2",
+            "price": "100"
+        },
+        {
+            "apparelId": "3",
+            "name": "Shirt",
+            "size": "Large",
+            "apparelQualityId": "3",
+            "price": "400"
+        },
+        {
+            "apparelId": "4",
+            "name": "Shirt",
+            "size": "Medium",
+            "apparelQualityId": "4",
+            "price": "300"
+        }
+    ],
+    "apprel-quality": [
+        {
+            "apparelQualityId": "1",
+            "appCode": "hatLarge",
+            "quality": "poor"
+        },
+        {
+            "apparelQualityId": "2",
+            "appCode": "hatMedium",
+            "quality": "fine"
+        },
+        {
+            "apparelQualityId": "3",
+            "appCode": "shirtLarge",
+            "quality": "good"
+        },
+        {
+            "apparelQualityId": "4",
+            "appCode": "shirtMedium",
+            "quality": "bad"
+        }
+    ]
+}
